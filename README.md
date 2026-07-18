@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hammadraza133/hammadraza133/main/assets/dark.svg?v=2">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hammadraza133/hammadraza133/main/assets/light.svg?v=2">
-  <img alt="Muhammad Hammad Raza" src="https://raw.githubusercontent.com/hassaanRaza71/hammadraza133/main/assets/dark.svg?v=2" width="100%">
+  <img alt="Muhammad Hammad Raza" src="https://raw.githubusercontent.com/hammadraza133/hammadraza133/main/assets/dark.svg?v=2" width="100%">
 </picture>
 
 # About Me:
