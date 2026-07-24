@@ -10,8 +10,9 @@
 </p>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hammad-raza-b53405291/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hammaduser92@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hammad-raza-b53405291/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/hammadraza13)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hammaduser92@gmail.com)
 <!-- Snake Game Repo View (requires GitHub Action workflow - see note below) -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/hammadraza133/hammadraza133/output/github-contribution-grid-snake.svg" alt="Snake animation" />
